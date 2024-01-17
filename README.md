@@ -5,17 +5,17 @@
 
 🚀 **Explorando o Universo Tech:**
 
-📚 Mestre em Inovações Tecnológicas
+- 📚 Mestre em Inovações Tecnológicas
 
-💼 Analista de Sistemas
+- 💼 Analista de Sistemas
 
-💼 Analista de Testes de Software
+- 💼 Analista de Testes de Software
 
-💼 Especialista em Testes de Software
+- 💼 Especialista em Testes de Software
 
-💼 Analista de Testes Automatizados de Software
+- 💼 Analista de Testes Automatizados de Software
 
-👩‍🏫 Professora de Testes de Software
+- 👩‍🏫 Professora de Testes de Software
 
 **💡 Missão GitHub:**
 Este é meu espaço para armazenar e compartilhar cursos, aprendizados e recursos relacionados à minha jornada no mundo da tecnologia. 
